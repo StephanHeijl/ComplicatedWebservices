@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.31+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_46831</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>136</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_46831</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>136</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|499413480|ref|WP_011100947.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|380031322|ref|YP_004888313.1| aromatic acid carboxylyase, subunit D [Lactobacillus plantarum WCFS1] &gt;gi|342240565|emb|CCC77799.1| aromatic acid carboxylyase, subunit D [Lactobacillus plantarum WCFS1]</Hit_def>
+  <Hit_accession>WP_011100947</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>284.648</Hsp_bit-score>
+      <Hsp_score>727</Hsp_score>
+      <Hsp_evalue>6.22746e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|506305306|ref|WP_015825081.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|254044336|gb|ACT61129.1| conserved hypothetical protein [Lactobacillus plantarum JDM1] &gt;gi|543406369|gb|ERJ62731.1| amino acid decarboxylase [Lactobacillus plantarum 2025] &gt;gi|601113313|gb|AHN67920.1| hypothetical protein I526_0235 [Lactobacillus plantarum DOMLa] &gt;gi|666676686|gb|KEZ16170.1| hypothetical protein Lp90_0234 [Lactobacillus plantarum] &gt;gi|770677936|emb|CDN29610.1| hypothetical protein LP80_2934 [Lactobacillus plantarum]</Hit_def>
+  <Hit_accession>WP_015825081</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.722</Hsp_bit-score>
+      <Hsp_score>722</Hsp_score>
+      <Hsp_evalue>3.90323e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|489742336|ref|WP_003646393.1|</Hit_id>
+  <Hit_def>hypothetical protein [Lactobacillus plantarum] &gt;gi|468443283|gb|EMP43026.1| hypothetical protein H073_13336 [Lactobacillus plantarum UCMA 3037] &gt;gi|511781954|gb|EPD25370.1| hypothetical protein L103_03318 [Lactobacillus plantarum IPLA88] &gt;gi|513034547|gb|AGO06943.1| aromatic acid carboxylyase, subunit D [Lactobacillus plantarum 16] &gt;gi|749389522|gb|AGL62980.2| hypothetical protein LBP_cg0234 [Lactobacillus plantarum subsp. plantarum P-8]</Hit_def>
+  <Hit_accession>WP_003646393</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>280.796</Hsp_bit-score>
+      <Hsp_score>717</Hsp_score>
+      <Hsp_evalue>1.82134e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLVGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYL GSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|505452794|ref|WP_015639896.1|</Hit_id>
+  <Hit_def>hypothetical protein [Lactobacillus plantarum] &gt;gi|501145568|ref|YP_007985906.1| hypothetical protein LBP_cg0229 [Lactobacillus plantarum subsp. plantarum P-8]</Hit_def>
+  <Hit_accession>WP_015639896</Hit_accession>
+  <Hit_len>142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.182</Hsp_bit-score>
+      <Hsp_score>718</Hsp_score>
+      <Hsp_evalue>1.90735e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>142</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLVGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYL GSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|489739627|ref|WP_003643708.1|</Hit_id>
+  <Hit_def>MULTISPECIES: amino acid decarboxylase [Lactobacillus] &gt;gi|308044902|gb|ADN97445.1| hypothetical protein LPST_C0221 [Lactobacillus plantarum subsp. plantarum ST-III] &gt;gi|376010608|gb|EHS83933.1| aromatic acid carboxylyase, subunit D [Lactobacillus plantarum subsp. plantarum NC8] &gt;gi|543390568|gb|ERJ48548.1| amino acid decarboxylase [Lactobacillus plantarum 2165] &gt;gi|549832316|gb|ERO41793.1| hypothetical protein LPLWJ_10720 [Lactobacillus plantarum WJL] &gt;gi|674834844|gb|KFL87282.1| hypothetical protein LpDm1_2185 [Lactobacillus plantarum] &gt;gi|692528998|gb|KGH44247.1| aromatic acid carboxylyase, subunit D [Lactobacillus plantarum CMPG5300] &gt;gi|758841183|gb|AJO73028.1| amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|820746659|gb|KKX45799.1| amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|822070983|gb|KLD43180.1| amino acid decarboxylase [Lactobacillus plantarum]</Hit_def>
+  <Hit_accession>WP_003643708</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>280.411</Hsp_bit-score>
+      <Hsp_score>716</Hsp_score>
+      <Hsp_evalue>2.61188e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTILTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVT LTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|779859902|ref|WP_045351460.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|601118849|gb|EYR71630.1| amino acid decarboxylase [Lactobacillus plantarum WHE 92]</Hit_def>
+  <Hit_accession>WP_045351460</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>279.256</Hsp_bit-score>
+      <Hsp_score>713</Hsp_score>
+      <Hsp_evalue>8.3145e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLVGSCTITAGIHVNRITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYL GSCTITAGIHVN+ITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|489737753|ref|WP_003641848.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|300495467|gb|EFK30622.1| hypothetical protein HMPREF0531_10327 [Lactobacillus plantarum subsp. plantarum ATCC 14917 = JCM 1149 = CGMCC 1.2437] &gt;gi|565429759|gb|ETF13457.1| hypothetical protein N654_0109 [Lactobacillus plantarum 4_3] &gt;gi|751808956|gb|KIN20566.1| amino acid decarboxylase [Lactobacillus plantarum]</Hit_def>
+  <Hit_accession>WP_003641848</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>2.01419e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQIQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLDGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQ+QA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYL GSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|545604217|ref|WP_021730550.1|</Hit_id>
+  <Hit_def>hypothetical protein [Lactobacillus plantarum] &gt;gi|544589814|gb|ERL45296.1| hypothetical protein N644_0757 [Lactobacillus plantarum AY01]</Hit_def>
+  <Hit_accession>WP_021730550</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>271.166</Hsp_bit-score>
+      <Hsp_score>692</Hsp_score>
+      <Hsp_evalue>1.21264e-90</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQPYLDGSCTITAGIHVNQITKAQIAAAAPMTDELSRQIISWLQVHPVHAEKPEYYGQDEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQ YL GSCTITAGIHVNQITKAQIAAAAPMTD+LSRQIISWLQ HPV AEKPEYYGQDEQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|727093782|ref|WP_033610455.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus paraplantarum] &gt;gi|689729016|gb|KGE76091.1| amino acid decarboxylase [Lactobacillus paraplantarum]</Hit_def>
+  <Hit_accession>WP_033610455</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.16431e-88</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHAGRFHKDNFISERMAKRIQPYLDGSCTITAGIHVNQITKAQIAAAAPMTDELSQQIIVWLQAHPVQAEKPEYYGQNEQPR</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSH GRFHKDNFISERMAKRIQ YL GSCTITAGIHVNQITKAQIAAAAPMTD+LS+QII WLQAHPVQAEKPEYYGQ+EQPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|489733400|ref|WP_003637498.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus pentosus] &gt;gi|339637837|emb|CCC16816.1| putative uncharacterized protein [Lactobacillus pentosus IG1] &gt;gi|392437418|gb|EIW15307.1| aromatic acid carboxylyase, subunit D [Lactobacillus pentosus KCA1]</Hit_def>
+  <Hit_accession>WP_003637498</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>248.44</Hsp_bit-score>
+      <Hsp_score>633</Hsp_score>
+      <Hsp_evalue>1.27524e-81</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>116</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPTFTTEQAGYQMQATVQVIGYDLLIVVTGGTNPHIGDVTTITATTPAQTVKFPSHDGRFHKDNFISDRMAKRLQSSLPGSCTITAGIHVNQITKAQIAAAAPMTDDLSQQIITWLQAHPIQAARPEYYGDDEQPK</Hsp_hseq>
+      <Hsp_midline>M TFTTEQAGYQMQA +QVIGYDLLIVVTGGTNPHIGDVTT+TA+T  +TVKFPSHDGRFHKDNFIS+RMAKR+Q  L GSCTITAGIHVNQITKAQIAAAAPMTDDLS+QII+WLQAHP+QA +PEYYG DEQP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|544929128|ref|WP_021338219.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum] &gt;gi|532626719|gb|EQM52757.1| amino acid decarboxylase [Lactobacillus plantarum EGD-AQ4]</Hit_def>
+  <Hit_accession>WP_021338219</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>247.669</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.15302e-81</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPTFTTEQAGYQMQATVQIIGYDLLIVVTGGTNPHIGDVTTITATTPAQTVKFPSHDGRFHKDNFISDRMAKRLQSSLPGSCTITAGIHVNQITKAQIAAAAPMTDDLSQQIITWLQAHPIQAARPEYYGDDEQPK</Hsp_hseq>
+      <Hsp_midline>M TFTTEQAGYQMQA +Q+IGYDLLIVVTGGTNPHIGDVTT+TA+T  +TVKFPSHDGRFHKDNFIS+RMAKR+Q  L GSCTITAGIHVNQITKAQIAAAAPMTDDLS+QII+WLQAHP+QA +PEYYG DEQP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|334881885|emb|CCB82807.1|</Hit_id>
+  <Hit_def>putative uncharacterized protein [Lactobacillus pentosus MP-10]</Hit_def>
+  <Hit_accession>CCB82807</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>246.128</Hsp_bit-score>
+      <Hsp_score>627</Hsp_score>
+      <Hsp_evalue>8.32943e-81</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPTFTTEQAGYQMQATVQVIGYDLLIVVTGGTNPHIGDVTTITATMPAQTVKFPSHDGRFHKDNFISDRMAKRLQSSLPGSCTITAGIHVNQITKAQIAAAAPMTDDLSQQIITWLQAHPIQAARPEYYGDDEQPK</Hsp_hseq>
+      <Hsp_midline>M TFTTEQAGYQMQA +QVIGYDLLIVVTGGTNPHIGDVTT+TA+   +TVKFPSHDGRFHKDNFIS+RMAKR+Q  L GSCTITAGIHVNQITKAQIAAAAPMTDDLS+QII+WLQAHP+QA +PEYYG DEQP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|822084870|gb|KLD56745.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus plantarum]</Hit_def>
+  <Hit_accession>KLD56745</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>242.276</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>1.89474e-79</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>119</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>119</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>119</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAH</Hsp_qseq>
+      <Hsp_hseq>MATFTTEQAGYQMQATLQVIGYDLLIVVTGGTNPHIGDVTILTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAH</Hsp_hseq>
+      <Hsp_midline>MATFTTEQAGYQMQA LQVIGYDLLIVVTGGTNPHIGDVT LTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|639447153|ref|WP_024625408.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus fabifermentans] &gt;gi|575844393|gb|ETY75552.1| amino acid decarboxylase [Lactobacillus fabifermentans T30PCM01]</Hit_def>
+  <Hit_accession>WP_024625408</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.868</Hsp_bit-score>
+      <Hsp_score>577</Hsp_score>
+      <Hsp_evalue>3.01662e-73</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>105</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPTFKTTQAGYTMTAALTVIGFDLLIVVTGGSNPHIGDVTMVTANTDPQTVKYPSHDGRFHKDNFISDRMAKLLQPHLTGSCTITAGIHVNQITKAQIAAAAPMTTDLSQQIIAWLNAHPIQADQPEYYGNDEAPK</Hsp_hseq>
+      <Hsp_midline>M TF T QAGY M A L VIG+DLLIVVTGG+NPHIGDVT +TA+T P+TVK+PSHDGRFHKDNFIS+RMAK +Q +L GSCTITAGIHVNQITKAQIAAAAPMT DLS+QII+WL AHP+QA++PEYYG DE P+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|640296170|ref|WP_024855425.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_024855425</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>202.216</Hsp_bit-score>
+      <Hsp_score>513</Hsp_score>
+      <Hsp_evalue>1.65664e-63</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>92</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEAALTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVAHPIKAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL AHP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|472234640|dbj|BAN07605.1|</Hit_id>
+  <Hit_def>conserved hypothetical protein [Lactobacillus brevis KB290]</Hit_def>
+  <Hit_accession>BAN07605</Hit_accession>
+  <Hit_len>142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>202.216</Hsp_bit-score>
+      <Hsp_score>513</Hsp_score>
+      <Hsp_evalue>2.13531e-63</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>92</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEAALTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVAHPIKAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL AHP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|499987946|ref|WP_011668664.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|116099895|gb|ABJ65044.1| hypothetical protein LVIS_1986 [Lactobacillus brevis ATCC 367]</Hit_def>
+  <Hit_accession>WP_011668664</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>200.675</Hsp_bit-score>
+      <Hsp_score>509</Hsp_score>
+      <Hsp_evalue>7.12072e-63</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEVALTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVAHPIKAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++  L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL AHP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|757817493|ref|WP_043022521.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|756879589|gb|KIR08992.1| amino acid decarboxylase [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_043022521</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.904</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>1.29549e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEATLTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVDHPIEAPAPQYYGDDEQPQ</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL  HP++A  P+YYG DEQP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|639187094|ref|WP_024526364.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|743384264|gb|KID43370.1| hypothetical protein LbDm2_1537 [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_024526364</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.904</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>1.41332e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEATLTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVDHPIEAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL  HP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|755587814|ref|WP_042520891.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|741041227|gb|AJA80433.1| amino acid decarboxylase [Lactobacillus brevis BSO 464] &gt;gi|754300724|gb|KIO96437.1| hypothetical protein N624_2551 [Lactobacillus brevis] &gt;gi|754304438|gb|KIP00097.1| hypothetical protein N627_0515 [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_042520891</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.904</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>1.47619e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEATLTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERIARVVQPSLVGSCTVTAGIHVNQITKAQIAASAPMGEALGRQIVTWLVDHPIKAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+APM + L RQI++WL  HP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|823088673|ref|WP_047021439.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|822583964|gb|KLE29373.1| amino acid decarboxylase [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_047021439</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.978</Hsp_bit-score>
+      <Hsp_score>502</Hsp_score>
+      <Hsp_evalue>6.84532e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>110</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEAALTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVQPSLVGSCTVTAGIHVNQITKAQIAASALMGEALGRQIVTWLVAHPIKAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ +Q  L GSCT+TAGIHVNQITKAQIAA+A M + L RQI++WL AHP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|737484933|ref|WP_035464674.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus brevis] &gt;gi|754303529|gb|KIO99212.1| hypothetical protein QP38_1901 [Lactobacillus brevis]</Hit_def>
+  <Hit_accession>WP_035464674</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>194.512</Hsp_bit-score>
+      <Hsp_score>493</Hsp_score>
+      <Hsp_evalue>1.67613e-60</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>135</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>MPVFSVTQAGYTIEATLTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVRPSLVGSCTVTAGIHVNQITKAQIAASALMGEALGRQIVTWLVDHPIEAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>M  F+  QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ ++  L GSCT+TAGIHVNQITKAQIAA+A M + L RQI++WL  HP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|544232993|gb|ERK46063.1|</Hit_id>
+  <Hit_def>hypothetical protein HMPREF0495_00128 [Lactobacillus brevis ATCC 14869 = DSM 20054]</Hit_def>
+  <Hit_accession>ERK46063</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.889</Hsp_bit-score>
+      <Hsp_score>481</Hsp_score>
+      <Hsp_evalue>1.12399e-58</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>130</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>QAGYTIEATLTVIGKDLLIVVTGGSNPHIGDVTTLTRDTPIQTIKYPSHDGRFHKDNFVGERVARVVRPSLVGSCTVTAGIHVNQITKAQIAASALMGEALGRQIVTWLVDHPIEAPAPQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>QAGY ++A L VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+A+ ++  L GSCT+TAGIHVNQITKAQIAA+A M + L RQI++WL  HP++A  P+YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|518933547|ref|WP_020089422.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus parabrevis]</Hit_def>
+  <Hit_accession>WP_020089422</Hit_accession>
+  <Hit_len>136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.889</Hsp_bit-score>
+      <Hsp_score>481</Hsp_score>
+      <Hsp_evalue>1.4008e-58</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>136</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>MATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MPKFSVTQENYTIDADVTVIGEDLLIVVTGGSNPHIGDVTTLTRDTAMQTIKYPSHDGRFHKDNFVGERVAKVVQPVLPGSCTVTAGIHVNQITKAQIAASAPMGEELGRQIVAWLAQHPLAAPMPQYYSDSEQPQ</Hsp_hseq>
+      <Hsp_midline>M  F+  Q  Y + A + VIG DLLIVVTGG+NPHIGDVTTLT  T  +T+K+PSHDGRFHKDNF+ ER+AK +Q  L GSCT+TAGIHVNQITKAQIAA+APM ++L RQI++WL  HP+ A  P+YY   EQP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|822084871|gb|KLD56746.1|</Hit_id>
+  <Hit_def>hypothetical protein WP50_38715, partial [Lactobacillus plantarum]</Hit_def>
+  <Hit_accession>KLD56746</Hit_accession>
+  <Hit_len>101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.415</Hsp_bit-score>
+      <Hsp_score>459</Hsp_score>
+      <Hsp_evalue>7.7223e-56</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>118</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>TNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQA</Hsp_qseq>
+      <Hsp_hseq>TNPHIGDVTILTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQA</Hsp_hseq>
+      <Hsp_midline>TNPHIGDVT LTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|498308748|ref|WP_010622904.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus suebicus]</Hit_def>
+  <Hit_accession>WP_010622904</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>171.014</Hsp_bit-score>
+      <Hsp_score>432</Hsp_score>
+      <Hsp_evalue>2.88216e-51</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>FNVTQSGYTIDAHLTVIGNDLLIEVTGGDHPHIGTVTMVTDEDNIQTIRYPSHDGRYHKDDFISTRIAKKISGHIAGTATITAGVHVNQISKQQIAAAAPMSDSLADQIIDWLAQHPISVSAPEYYKNNQQPR</Hsp_hseq>
+      <Hsp_midline>F   Q+GY + A L VIG DLLI VTGG +PHIG VT +T     +T+++PSHDGR+HKD+FIS R+AK+I  ++AG+ TITAG+HVNQI+K QIAAAAPM+D L+ QII WL  HP+    PEYY  ++QPR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|763131498|ref|WP_044011252.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus sp. WDC04] &gt;gi|757397645|gb|KIS02878.1| hypothetical protein WDC_1554 [Lactobacillus sp. WDC04]</Hit_def>
+  <Hit_accession>WP_044011252</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>170.244</Hsp_bit-score>
+      <Hsp_score>430</Hsp_score>
+      <Hsp_evalue>6.36294e-51</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>101</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>132</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>FNVTKENYTMTAEVRTVGPDLTITVTGGDNPHVGTITAITDGTDFQTIQYPSHDGRLHKDNFISERIARQIQHHLTGSATVMAGVHVNHITKKQIAAAAPMSDNLAKQINDWLQQHPIEVKQPIYYGKNEQP</Hsp_hseq>
+      <Hsp_midline>F   +  Y M A ++ +G DL I VTGG NPH+G +T +T  T  +T+++PSHDGR HKDNFISER+A++IQ +L GS T+ AG+HVN ITK QIAAAAPM+D+L++QI  WLQ HP++ ++P YYG++EQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|515829888|ref|WP_017260641.1|</Hit_id>
+  <Hit_def>hypothetical protein [Lactobacillus rossiae]</Hit_def>
+  <Hit_accession>WP_017260641</Hit_accession>
+  <Hit_len>141</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.548</Hsp_bit-score>
+      <Hsp_score>423</Hsp_score>
+      <Hsp_evalue>8.45866e-50</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>TFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>TFQTTRQDYTIQADVRLIGKDALIVVTGGDHPHIGDVTTLTATTDMQTVKFPSHDGRFHKDNVVGEQVAKVIQAVLPGSCTITSGIHVDHISQSQIDVAVPMGDDLGVQIKTWLQQQTISASAPVYYSDDEKPQ</Hsp_hseq>
+      <Hsp_midline>TF T +  Y +QA +++IG D LIVVTGG +PHIGDVTTLTA+T  +TVKFPSHDGRFHKDN + E++AK IQ  L GSCTIT+GIHV+ I+++QI  A PM DDL  QI +WLQ   + A  P YY  DE+P+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|703625003|ref|WP_033445244.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus malefermentans]</Hit_def>
+  <Hit_accession>WP_033445244</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>165.622</Hsp_bit-score>
+      <Hsp_score>418</Hsp_score>
+      <Hsp_evalue>3.1021e-49</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>133</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>96</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>MSVNQENYEISAKVTVIGQDLLIVITGGDHPHIGDVTTLTRNDEPQTVRFPSHDGRFHKDDFVSNRIAKAIQANLPGSCTITAGIHVDGITKAQIAAAGSMADQLGNQLNDWLKTQSFGQNTPKYYDKNEAPK</Hsp_hseq>
+      <Hsp_midline> +  Q  Y++ A + VIG DLLIV+TGG +PHIGDVTTLT +  P+TV+FPSHDGRFHKD+F+S R+AK IQ  L GSCTITAGIHV+ ITKAQIAAA  M D L  Q+  WL+        P+YY ++E P+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|737456135|ref|WP_035436269.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus fermentum]</Hit_def>
+  <Hit_accession>WP_035436269</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>160.614</Hsp_bit-score>
+      <Hsp_score>405</Hsp_score>
+      <Hsp_evalue>4.42136e-47</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>132</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>FTVTKEHYTMQAALFVIAKDVLAVITGGDHPHIGDVTAVAKGEEPQTVRYPSHDGRFHKDDFLSERLVKKVAPLVPGSLTVLAGVHVDHITKTQLIQAGPMVDELAQQVAAWLLAHPIQFSDAQYYGDDEQP</Hsp_hseq>
+      <Hsp_midline>FT  +  Y MQA L VI  D+L V+TGG +PHIGDVT +     P+TV++PSHDGRFHKD+F+SER+ K++   + GS T+ AG+HV+ ITK Q+  A PM D+L++Q+ +WL AHP+Q    +YYG DEQP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|498309971|ref|WP_010624127.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus versmoldensis]</Hit_def>
+  <Hit_accession>WP_010624127</Hit_accession>
+  <Hit_len>135</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>6.69601e-43</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>95</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>FSVTQANYTIEANLTVIGQDLLIEITGGNVPHIGTVTTLTKTEKITTNRFPSHDGRYHKDGVLAEAVAKIIQPQLPGSCTITSGVHVDKISLEQIKASKPMSENLGRQISQWLQKTTLDSHQPVYYGKNETPK</Hsp_hseq>
+      <Hsp_midline>F+  QA Y ++A L VIG DLLI +TGG  PHIG VTTLT +    T +FPSHDGR+HKD  ++E +AK IQ  L GSCTIT+G+HV++I+  QI A+ PM+++L RQI  WLQ   + + +P YYG++E P+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|495487858|ref|WP_008212543.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus parafarraginis] &gt;gi|363715133|gb|EHL98600.1| hypothetical protein HMPREF9103_01417 [Lactobacillus parafarraginis F0439]</Hit_def>
+  <Hit_accession>WP_008212543</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.517</Hsp_bit-score>
+      <Hsp_score>371</Hsp_score>
+      <Hsp_evalue>4.67786e-42</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>133</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQPR</Hsp_qseq>
+      <Hsp_hseq>FAVSQAGYTISAALFRIGPDVLIVVTGGDHPHVGDVTTKSQHAPRQTVKFPSHDGRDHKDNFLSDRLADTVSSQVGGSLTVLAGVHIDGITQAQIKASAEMIDRLADQINQWLAAHPAHINPPTYYDQNHHPE</Hsp_hseq>
+      <Hsp_midline>F   QAGY + A L  IG D+LIVVTGG +PH+GDVTT +     +TVKFPSHDGR HKDNF+S+R+A  +   + GS T+ AG+H++ IT+AQI A+A M D L+ QI  WL AHP     P YY Q+  P </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|737473455|ref|WP_035453346.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Lactobacillus composti] &gt;gi|588475278|dbj|GAF40298.1| translation initiation factor 2 [Lactobacillus composti DSM 18527 = JCM 14202]</Hit_def>
+  <Hit_accession>WP_035453346</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>142.895</Hsp_bit-score>
+      <Hsp_score>359</Hsp_score>
+      <Hsp_evalue>2.89298e-40</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>129</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>91</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>ATFTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYY</Hsp_qseq>
+      <Hsp_hseq>ATFNLAQAGFTMTVALQQIGPDLLVVLTGGDHPHIGAITNVTATTL-SSFRYPSHDGRLHQDHVLSEIIGRLLQPNLTGHCTITAGVHVNGITTEQIQAAAKMAQSLAQKVVQWLQAHPLIATPPTYY</Hsp_hseq>
+      <Hsp_midline>ATF   QAG+ M   LQ IG DLL+V+TGG +PHIG +T +TA+T+  + ++PSHDGR H+D+ +SE + + +Q  L G CTITAG+HVN IT  QI AAA M   L+++++ WLQAHP+ A  P YY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|498420578|ref|WP_010728057.1|</Hit_id>
+  <Hit_def>hypothetical protein [Enterococcus faecium] &gt;gi|486672740|gb|EOG11826.1| hypothetical protein SM3_01233 [Enterococcus faecium EnGen0176] &gt;gi|487328072|gb|EOM43055.1| hypothetical protein SKU_00445 [Enterococcus faecium EnGen0173]</Hit_def>
+  <Hit_accession>WP_010728057</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.739</Hsp_bit-score>
+      <Hsp_score>356</Hsp_score>
+      <Hsp_evalue>8.82654e-40</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVSGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  ++GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|645924421|ref|WP_025478406.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium]</Hit_def>
+  <Hit_accession>WP_025478406</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.739</Hsp_bit-score>
+      <Hsp_score>356</Hsp_score>
+      <Hsp_evalue>8.92237e-40</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRNTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT + +T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|403034769|gb|EJY46197.1|</Hit_id>
+  <Hit_def>hypothetical protein HMPREF1348_01089 [Enterococcus faecium 505] &gt;gi|670923501|gb|AII38513.1| amino acid decarboxylase [Enterococcus faecium T110]</Hit_def>
+  <Hit_accession>EJY46197</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>142.124</Hsp_bit-score>
+      <Hsp_score>357</Hsp_score>
+      <Hsp_evalue>9.42257e-40</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRNTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT + +T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|488244726|ref|WP_002315934.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|257837928|gb|EEV63002.1| conserved hypothetical protein [Enterococcus faecium Com15] &gt;gi|658175342|gb|KEI49999.1| amino acid decarboxylase [Enterococcus faecium UC8668]</Hit_def>
+  <Hit_accession>WP_002315934</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.739</Hsp_bit-score>
+      <Hsp_score>356</Hsp_score>
+      <Hsp_evalue>9.72737e-40</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVVIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|488247990|ref|WP_002319198.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|291601512|gb|EFF31781.1| conserved hypothetical protein [Enterococcus faecium E1039] &gt;gi|676252935|gb|KFO16807.1| amino acid decarboxylase [Enterococcus faecium UC7267] &gt;gi|695587709|gb|KGK77792.1| amino acid decarboxylase [Enterococcus faecium]</Hit_def>
+  <Hit_accession>WP_002319198</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.354</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.19424e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRNTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVLGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT + +T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|430493250|gb|ELA69553.1|</Hit_id>
+  <Hit_def>hypothetical protein OGO_01855 [Enterococcus faecium EnGen0015] &gt;gi|430565310|gb|ELB04456.1| hypothetical protein OIG_04886 [Enterococcus faecium EnGen0028] &gt;gi|430567652|gb|ELB06729.1| hypothetical protein OII_05118 [Enterococcus faecium EnGen0029] &gt;gi|430592319|gb|ELB30335.1| hypothetical protein OK5_04099 [Enterococcus faecium EnGen0042] &gt;gi|430602609|gb|ELB40173.1| hypothetical protein OKA_04282 [Enterococcus faecium EnGen0026] &gt;gi|430613177|gb|ELB50194.1| hypothetical protein OKI_04627 [Enterococcus faecium EnGen0038]</Hit_def>
+  <Hit_accession>ELA69553</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.739</Hsp_bit-score>
+      <Hsp_score>356</Hsp_score>
+      <Hsp_evalue>1.19468e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVVIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|488239542|ref|WP_002310750.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|257824999|gb|EEV51929.1| conserved hypothetical protein [Enterococcus faecium 1,141,733] &gt;gi|257833255|gb|EEV59676.1| conserved hypothetical protein [Enterococcus faecium Com12]</Hit_def>
+  <Hit_accession>WP_002310750</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.354</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.37419e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYTDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|227179797|gb|EEI60769.1|</Hit_id>
+  <Hit_def>hypothetical protein HMPREF0352_1009 [Enterococcus faecium TX1330] &gt;gi|402413306|gb|EJV45651.1| hypothetical protein HMPREF1345_02147 [Enterococcus faecium TX1337RF] &gt;gi|430536960|gb|ELA77320.1| hypothetical protein OGS_01946 [Enterococcus faecium EnGen0002] &gt;gi|430562242|gb|ELB01488.1| hypothetical protein OIE_04959 [Enterococcus faecium EnGen0003] &gt;gi|430618094|gb|ELB54941.1| hypothetical protein OKO_01371 [Enterococcus faecium EnGen0056] &gt;gi|430623060|gb|ELB59761.1| hypothetical protein OKS_03998 [Enterococcus faecium EnGen0047]</Hit_def>
+  <Hit_accession>EEI60769</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>141.354</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>1.66913e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYTDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|645924245|ref|WP_025478230.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|658177466|gb|KEI52123.1| amino acid decarboxylase [Enterococcus faecium UC8733]</Hit_def>
+  <Hit_accession>WP_025478230</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.969</Hsp_bit-score>
+      <Hsp_score>354</Hsp_score>
+      <Hsp_evalue>1.92044e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRNTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT + +T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|403038632|gb|EJY49838.1|</Hit_id>
+  <Hit_def>hypothetical protein HMPREF1347_01611 [Enterococcus faecium 504] &gt;gi|430586108|gb|ELB24371.1| hypothetical protein OIU_04533 [Enterococcus faecium EnGen0039] &gt;gi|430623914|gb|ELB60578.1| hypothetical protein OKQ_04337 [Enterococcus faecium EnGen0052] &gt;gi|486814581|gb|EOH49284.1| hypothetical protein SSI_00437 [Enterococcus faecium EnGen0191]</Hit_def>
+  <Hit_accession>EJY49838</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.969</Hsp_bit-score>
+      <Hsp_score>354</Hsp_score>
+      <Hsp_evalue>2.07103e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>149</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRNTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT + +T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|488249194|ref|WP_002320402.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|292642742|gb|EFF60892.1| conserved hypothetical protein [Enterococcus faecium PC4.1]</Hit_def>
+  <Hit_accession>WP_002320402</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>2.33234e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>91</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKNAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKTDFHIKEPVYYTDGENP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|488215125|ref|WP_002286333.1|</Hit_id>
+  <Hit_def>MULTISPECIES: amino acid decarboxylase [Enterococcus] &gt;gi|68196401|gb|EAN10829.1| conserved hypothetical protein [Enterococcus faecium DO] &gt;gi|257813262|gb|EEV42020.1| conserved hypothetical protein [Enterococcus faecium 1,230,933] &gt;gi|257817316|gb|EEV44644.1| conserved hypothetical protein [Enterococcus faecium 1,231,502] &gt;gi|257822145|gb|EEV49275.1| conserved hypothetical protein [Enterococcus faecium 1,231,501] &gt;gi|257827246|gb|EEV53872.1| conserved hypothetical protein [Enterococcus faecium 1,231,410] &gt;gi|260075731|gb|EEW64037.1| hypothetical protein EFXG_00348 [Enterococcus faecium C68] &gt;gi|260078916|gb|EEW66616.1| hypothetical protein EFZG_01107 [Enterococcus faecium TC 6] &gt;gi|289161223|gb|EFD09121.1| hypothetical protein EDAG_01988 [Enterococcus faecium D344SRF] &gt;gi|291588759|gb|EFF20587.1| conserved hypothetical protein [Enterococcus faecium E1071] &gt;gi|291593161|gb|EFF24738.1| hypothetical protein EfmE1636_0089 [Enterococcus faecium E1636] &gt;gi|291593404|gb|EFF24967.1| conserved hypothetical protein [Enterococcus faecium E1679] &gt;gi|291597238|gb|EFF28429.1| conserved hypothetical protein [Enterococcus faecium U0317] &gt;gi|291605171|gb|EFF34633.1| conserved hypothetical protein [Enterococcus faecium E1162] &gt;gi|364090291|gb|EHM32895.1| conserved hypothetical protein [Enterococcus faecium E4453] &gt;gi|378937434|gb|AFC62506.1| hypothetical protein EFAU004_00420 [Enterococcus faecium Aus0004] &gt;gi|404452642|gb|EJZ99804.1| hypothetical protein GMD4E_11077 [Enterococcus sp. GMD4E] &gt;gi|404456220|gb|EKA02956.1| hypothetical protein GMD3E_10988 [Enterococcus sp. GMD3E] &gt;gi|404461744|gb|EKA07610.1| hypothetical protein GMD2E_11133 [Enterococcus sp. GMD2E] &gt;gi|404467383|gb|EKA12511.1| hypothetical protein GMD1E_12636 [Enterococcus sp. GMD1E] &gt;gi|410735679|gb|EKQ77587.1| hypothetical protein GMD5E_A00435 [Enterococcus sp. GMD5E] &gt;gi|425722571|gb|EKU85466.1| hypothetical protein HMPREF9307_02047 [Enterococcus faecium FB129-CNAB4] &gt;gi|430441987|gb|ELA52053.1| hypothetical protein OGA_04587 [Enterococcus faecium EnGen0012] &gt;gi|430445361|gb|ELA55117.1| hypothetical protein OGC_03710 [Enterococcus faecium EnGen0010] &gt;gi|430480778|gb|ELA57952.1| hypothetical protein OGG_04706 [Enterococcus faecium EnGen0013] &gt;gi|430481584|gb|ELA58735.1| hypothetical protein OGE_04174 [Enterococcus faecium EnGen0022] &gt;gi|430487449|gb|ELA64186.1| hypothetical protein OGK_04700 [Enterococcus faecium EnGen0019] &gt;gi|430497814|gb|ELA73842.1| hypothetical protein OGQ_00383 [Enterococcus faecium EnGen0017] &gt;gi|430534126|gb|ELA74594.1| hypothetical protein OGU_05317 [Enterococcus faecium EnGen0011] &gt;gi|430546491|gb|ELA86434.1| hypothetical protein OI1_04330 [Enterococcus faecium EnGen0016] &gt;gi|430549709|gb|ELA89524.1| hypothetical protein OI5_04353 [Enterococcus faecium EnGen0009] &gt;gi|430551324|gb|ELA91091.1| hypothetical protein OI7_04383 [Enterococcus faecium EnGen0020] &gt;gi|430554390|gb|ELA94002.1| hypothetical protein OI9_04911 [Enterococcus faecium EnGen0001] &gt;gi|430562610|gb|ELB01842.1| hypothetical protein OIC_02989 [Enterococcus faecium EnGen0007] &gt;gi|430573412|gb|ELB12227.1| hypothetical protein OIM_03900 [Enterococcus faecium EnGen0032] &gt;gi|430577495|gb|ELB16092.1| hypothetical protein OIO_03966 [Enterococcus faecium EnGen0031] &gt;gi|430579873|gb|ELB18353.1| hypothetical protein OIQ_04408 [Enterococcus faecium EnGen0025] &gt;gi|430582734|gb|ELB21150.1| hypothetical protein OIS_03917 [Enterococcus faecium EnGen0035] &gt;gi|430587448|gb|ELB25674.1| hypothetical protein OIW_03425 [Enterococcus faecium EnGen0040] &gt;gi|430592659|gb|ELB30664.1| hypothetical protein OK3_04292 [Enterococcus faecium EnGen0036] &gt;gi|430599892|gb|ELB37580.1| hypothetical protein OK7_04848 [Enterococcus faecium EnGen0024] &gt;gi|430605541|gb|ELB42934.1| hypothetical protein OKC_04485 [Enterococcus faecium EnGen0044] &gt;gi|430614277|gb|ELB51265.1| hypothetical protein OKG_00398 [Enterococcus faecium EnGen0034] &gt;gi|430621047|gb|ELB57835.1| hypothetical protein OKK_02723 [Enterococcus faecium EnGen0030] &gt;gi|430628372|gb|ELB64814.1| hypothetical protein OM1_04998 [Enterococcus faecium EnGen0054] &gt;gi|430629110|gb|ELB65528.1| hypothetical protein OKY_03659 [Enterococcus faecium EnGen0048] &gt;gi|430636156|gb|ELB72230.1| hypothetical protein OM5_01341 [Enterococcus faecium EnGen0050] &gt;gi|430636343|gb|ELB72409.1| hypothetical protein OM3_03263 [Enterococcus faecium EnGen0051] &gt;gi|430639329|gb|ELB75203.1| hypothetical protein OM9_02400 [Enterococcus faecium EnGen0057] &gt;gi|430640521|gb|ELB76356.1| hypothetical protein OM7_04521 [Enterococcus faecium EnGen0046] &gt;gi|430646654|gb|ELB82123.1| hypothetical protein OMA_04807 [Enterococcus faecium EnGen0045] &gt;gi|430649027|gb|ELB84415.1| hypothetical protein OMC_03518 [Enterococcus faecium EnGen0049] &gt;gi|445187595|gb|AGE29237.1| hypothetical protein M7W_595 [Enterococcus faecium NRRL B-2354] &gt;gi|486444464|gb|EOD89263.1| hypothetical protein OKM_00390 [Enterococcus faecium EnGen0041] &gt;gi|486616500|gb|EOF57639.1| hypothetical protein SCW_00363 [Enterococcus faecium EnGen0131] &gt;gi|486651414|gb|EOF91342.1| hypothetical protein SK5_00393 [Enterococcus faecium EnGen0161] &gt;gi|486652074|gb|EOF91973.1| hypothetical protein SK7_00377 [Enterococcus faecium EnGen0162] &gt;gi|486661636|gb|EOG01178.1| hypothetical protein SKK_00404 [Enterococcus faecium EnGen0168] &gt;gi|486661790|gb|EOG01331.1| hypothetical protein SKM_00393 [Enterococcus faecium EnGen0169] &gt;gi|486672171|gb|EOG11263.1| hypothetical protein SKY_00426 [Enterococcus faecium EnGen0175] &gt;gi|486673291|gb|EOG12362.1| hypothetical protein SKO_00329 [Enterococcus faecium EnGen0170] &gt;gi|486679131|gb|EOG17948.1| hypothetical protein SM5_00377 [Enterococcus faecium EnGen0177] &gt;gi|486683052|gb|EOG21657.1| hypothetical protein SMC_00378 [Enterococcus faecium EnGen0179] &gt;gi|486684113|gb|EOG22665.1| hypothetical protein SM7_00309 [Enterococcus faecium EnGen0178] &gt;gi|486691390|gb|EOG29586.1| hypothetical protein SMG_00393 [Enterococcus faecium EnGen0180] &gt;gi|486691928|gb|EOG30122.1| hypothetical protein SMK_00360 [Enterococcus faecium EnGen0181] &gt;gi|486692566|gb|EOG30717.1| hypothetical protein SMO_00390 [Enterococcus faecium EnGen0182] &gt;gi|486699988|gb|EOG37818.1| hypothetical protein SMQ_00358 [Enterococcus faecium EnGen0183] &gt;gi|486701873|gb|EOG39551.1| hypothetical protein SMS_00358 [Enterococcus faecium EnGen0184] &gt;gi|486819594|gb|EOH54254.1| hypothetical protein U9M_00408 [Enterococcus faecium EnGen0257] &gt;gi|486823018|gb|EOH57401.1| hypothetical protein UA5_00412 [Enterococcus faecium EnGen0264] &gt;gi|486835400|gb|EOH69189.1| hypothetical protein UA7_00392 [Enterococcus faecium EnGen0265] &gt;gi|486839101|gb|EOH72726.1| hypothetical protein UAG_00383 [Enterococcus faecium ATCC 8459] &gt;gi|486910122|gb|EOI41615.1| hypothetical protein UE9_00471 [Enterococcus faecium EnGen0267] &gt;gi|486911973|gb|EOI43430.1| hypothetical protein UIS_00589 [Enterococcus faecium EnGen0313] &gt;gi|486917604|gb|EOI48937.1| hypothetical protein UIW_00387 [Enterococcus faecium EnGen0315] &gt;gi|486920449|gb|EOI51678.1| hypothetical protein UIY_00393 [Enterococcus faecium EnGen0317] &gt;gi|486928110|gb|EOI59131.1| hypothetical protein UKA_00373 [Enterococcus faecium EnGen0322] &gt;gi|486934029|gb|EOI64725.1| hypothetical protein UKE_00438 [Enterococcus faecium EnGen0314] &gt;gi|486934195|gb|EOI64886.1| hypothetical protein UKI_01479 [Enterococcus faecium EnGen0318] &gt;gi|486936344|gb|EOI66971.1| hypothetical protein UKG_00441 [Enterococcus faecium EnGen0316] &gt;gi|486944963|gb|EOI75203.1| hypothetical protein UKK_00441 [Enterococcus faecium EnGen0319] &gt;gi|486945178|gb|EOI75412.1| hypothetical protein UKO_00813 [Enterococcus faecium EnGen0323] &gt;gi|486945475|gb|EOI75699.1| hypothetical protein UKM_00441 [Enterococcus faecium EnGen0321] &gt;gi|486953296|gb|EOI83284.1| hypothetical protein UKQ_01092 [Enterococcus faecium EnGen0312] &gt;gi|487091374|gb|EOK17302.1| hypothetical protein WQ1_00395 [Enterococcus faecium EnGen0371] &gt;gi|487151648|gb|EOK71213.1| hypothetical protein SE5_00608 [Enterococcus faecium EnGen0125] &gt;gi|487158917|gb|EOK78334.1| hypothetical protein SGY_00329 [Enterococcus faecium EnGen0145] &gt;gi|487171124|gb|EOK90264.1| hypothetical protein SI7_00386 [Enterococcus faecium EnGen0149] &gt;gi|487174025|gb|EOK93072.1| hypothetical protein SI9_00384 [Enterococcus faecium EnGen0150] &gt;gi|487179032|gb|EOK97891.1| hypothetical protein SIE_01736 [Enterococcus faecium EnGen0153] &gt;gi|487180130|gb|EOK99008.1| hypothetical protein SIQ_00384 [Enterococcus faecium EnGen0155] &gt;gi|487181335|gb|EOL00151.1| hypothetical protein SIC_00867 [Enterococcus faecium EnGen0152] &gt;gi|487185126|gb|EOL03821.1| hypothetical protein SIW_02598 [Enterococcus faecium EnGen0158] &gt;gi|487193100|gb|EOL11535.1| hypothetical protein SIY_00392 [Enterococcus faecium EnGen0159] &gt;gi|487193277|gb|EOL11707.1| hypothetical protein SK1_00417 [Enterococcus faecium EnGen0160] &gt;gi|487249317|gb|EOL66537.1| hypothetical protein UK3_01798 [Enterococcus faecium EnGen0305] &gt;gi|487260280|gb|EOL77163.1| hypothetical protein UK9_00339 [Enterococcus faecium EnGen0320] &gt;gi|487290958|gb|EOM07160.1| hypothetical protein U9Q_00418 [Enterococcus faecium EnGen0258] &gt;gi|487302156|gb|EOM18075.1| hypothetical protein U9Y_00419 [Enterococcus faecium EnGen0262] &gt;gi|487303229|gb|EOM19083.1| hypothetical protein SSM_02858 [Enterococcus faecium EnGen0192] &gt;gi|487305268|gb|EOM20974.1| hypothetical protein SSQ_01094 [Enterococcus faecium EnGen0193] &gt;gi|487312747|gb|EOM28233.1| hypothetical protein U9E_02217 [Enterococcus faecium EnGen0254] &gt;gi|487320763|gb|EOM35931.1| hypothetical protein U9I_00419 [Enterococcus faecium EnGen0255] &gt;gi|487329342|gb|EOM44301.1| hypothetical protein U9K_00415 [Enterococcus faecium EnGen0256] &gt;gi|487330295|gb|EOM45234.1| hypothetical protein SKW_01912 [Enterococcus faecium EnGen0174] &gt;gi|487357417|gb|EOM70954.1| hypothetical protein SKE_00387 [Enterococcus faecium EnGen0165] &gt;gi|487357779|gb|EOM71312.1| hypothetical protein SK9_00542 [Enterococcus faecium EnGen0163] &gt;gi|508159218|gb|EOT35878.1| hypothetical protein OMG_01836 [Enterococcus faecium EnGen0376] &gt;gi|508180427|gb|EOT55380.1| hypothetical protein OME_00677 [Enterococcus faecium EnGen0375] &gt;gi|508216191|gb|EOT90369.1| hypothetical protein I575_01117 [Enterococcus faecium EnGen0375] &gt;gi|508221838|gb|EOT95980.1| hypothetical protein I576_00283 [Enterococcus faecium EnGen0376] &gt;gi|508224679|gb|EOT98795.1| hypothetical protein I577_00482 [Enterococcus faecium EnGen0377] &gt;gi|508227186|gb|EOU01233.1| hypothetical protein OMI_01211 [Enterococcus faecium EnGen0377] &gt;gi|508234730|gb|EOU08190.1| hypothetical protein I581_00175 [Enterococcus faecium ATCC 8459] &gt;gi|531619240|gb|EQI98578.1| hypothetical protein QQG_6503 [Clostridium difficile Y384] &gt;gi|551096318|gb|ERT27772.1| hypothetical protein O993_03052 [Enterococcus faecium BM4538] &gt;gi|551099264|gb|ERT30620.1| hypothetical protein O992_02563 [Enterococcus faecium NEF1] &gt;gi|612139197|gb|EZP92153.1| amino acid decarboxylase [Enterococcus faecium VRE1044] &gt;gi|612141717|gb|EZP94506.1| amino acid decarboxylase [Enterococcus faecium VSE1036] &gt;gi|612143948|gb|EZP96560.1| amino acid decarboxylase [Enterococcus faecium VRE1261] &gt;gi|612146337|gb|EZP98845.1| amino acid decarboxylase [Enterococcus faecium VRE0576] &gt;gi|658182695|gb|KEI57352.1| amino acid decarboxylase [Enterococcus faecium UC10237] &gt;gi|695583489|gb|KGK74862.1| amino acid decarboxylase [Enterococcus faecium] &gt;gi|703908464|gb|KGQ78028.1| amino acid decarboxylase [Enterococcus faecium] &gt;gi|703909486|gb|KGQ79016.1| amino acid decarboxylase [Enterococcus faecium] &gt;gi|816119142|gb|KKJ66156.1| amino acid decarboxylase [Enterococcus faecium MRSN 11639] &gt;gi|816119873|gb|KKJ66823.1| amino acid decarboxylase [Enterococcus faecium MRSN 3418]</Hit_def>
+  <Hit_accession>WP_002286333</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>2.59822e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|492530527|ref|WP_005875457.1|</Hit_id>
+  <Hit_def>hypothetical protein [Enterococcus durans] &gt;gi|474483792|gb|EMS76954.1| hypothetical protein H318_01305 [Enterococcus durans IPLA 655]</Hit_def>
+  <Hit_accession>WP_005875457</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>2.59822e-39</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>132</Hsp_align-len>
+      <Hsp_qseq>FTTEQAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>FLVTQEAFTMQANVQVIGKDLLITITGGNVAHIGTVTTVSKETKAQTIRFPSHDGRFHKDDVLAQSLLAIIKDELPGNCVITSGVHVDHITNAQIHASFSMAESLGQQMLAWMQNHHFDNEKPLYYTNGEKP</Hsp_hseq>
+      <Hsp_midline>F   Q  + MQA +QVIG DLLI +TGG   HIG VTT++  T  +T++FPSHDGRFHKD+ +++ +   I+  L G+C IT+G+HV+ IT AQI A+  M + L +Q+++W+Q H    EKP YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|498419748|ref|WP_010727290.1|</Hit_id>
+  <Hit_def>hypothetical protein [Enterococcus faecium] &gt;gi|486666010|gb|EOG05312.1| hypothetical protein SKQ_00367 [Enterococcus faecium EnGen0171] &gt;gi|487326681|gb|EOM41678.1| hypothetical protein SKS_00368 [Enterococcus faecium EnGen0172]</Hit_def>
+  <Hit_accession>WP_010727290</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>2.80216e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEIQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|488253156|ref|WP_002324364.1|</Hit_id>
+  <Hit_def>hypothetical protein [Enterococcus faecium] &gt;gi|430438794|gb|ELA49199.1| hypothetical protein OG9_04510 [Enterococcus faecium EnGen0005] &gt;gi|430575048|gb|ELB13801.1| hypothetical protein OIK_03114 [Enterococcus faecium EnGen0027]</Hit_def>
+  <Hit_accession>WP_002324364</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>2.83257e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|498424578|ref|WP_010731086.1|</Hit_id>
+  <Hit_def>hypothetical protein [Enterococcus faecium] &gt;gi|487251047|gb|EOL68203.1| hypothetical protein UK5_01945 [Enterococcus faecium EnGen0308] &gt;gi|487289696|gb|EOM05921.1| hypothetical protein U9S_00387 [Enterococcus faecium EnGen0259] &gt;gi|658185297|gb|KEI59954.1| amino acid decarboxylase [Enterococcus faecium UC7251]</Hit_def>
+  <Hit_accession>WP_010731086</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.198</Hsp_bit-score>
+      <Hsp_score>352</Hsp_score>
+      <Hsp_evalue>2.98966e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|488250254|ref|WP_002321462.1|</Hit_id>
+  <Hit_def>amino acid decarboxylase [Enterococcus faecium] &gt;gi|389867614|ref|YP_006375037.1| hypothetical protein HMPREF0351_10431 [Enterococcus faecium DO] &gt;gi|313588845|gb|EFR67690.1| hypothetical protein HMPREF9524_02189 [Enterococcus faecium TX0133a01] &gt;gi|313591998|gb|EFR70843.1| hypothetical protein HMPREF9526_02161 [Enterococcus faecium TX0133B] &gt;gi|313594181|gb|EFR73026.1| hypothetical protein HMPREF9523_03102 [Enterococcus faecium TX0133A] &gt;gi|313597385|gb|EFR76230.1| hypothetical protein HMPREF9527_02950 [Enterococcus faecium TX0133C] &gt;gi|313641082|gb|EFS05662.1| hypothetical protein HMPREF9525_02271 [Enterococcus faecium TX0133a04] &gt;gi|313643456|gb|EFS08036.1| hypothetical protein HMPREF9522_02709 [Enterococcus faecium TX0082] &gt;gi|388532863|gb|AFK58055.1| hypothetical protein HMPREF0351_10431 [Enterococcus faecium DO] &gt;gi|402916165|gb|EJX37069.1| hypothetical protein HMPREF1383_02911 [Enterococcus faecium V689] &gt;gi|402918282|gb|EJX38992.1| hypothetical protein HMPREF1381_02598 [Enterococcus faecium R501] &gt;gi|402923096|gb|EJX43424.1| hypothetical protein HMPREF1382_01117 [Enterococcus faecium S447] &gt;gi|402927013|gb|EJX47004.1| hypothetical protein HMPREF1379_03250 [Enterococcus faecium R497] &gt;gi|402928389|gb|EJX48255.1| hypothetical protein HMPREF1378_02984 [Enterococcus faecium R496] &gt;gi|402932478|gb|EJX51986.1| hypothetical protein HMPREF1380_00263 [Enterococcus faecium R499] &gt;gi|402935298|gb|EJX54559.1| hypothetical protein HMPREF1377_02487 [Enterococcus faecium R494] &gt;gi|402943710|gb|EJX62178.1| hypothetical protein HMPREF1374_02492 [Enterococcus faecium P1190] &gt;gi|402944512|gb|EJX62918.1| hypothetical protein HMPREF1375_01991 [Enterococcus faecium P1986] &gt;gi|402944791|gb|EJX63184.1| hypothetical protein HMPREF1376_01327 [Enterococcus faecium R446] &gt;gi|402952678|gb|EJX70461.1| hypothetical protein HMPREF1372_03051 [Enterococcus faecium P1139] &gt;gi|402955118|gb|EJX72681.1| hypothetical protein HMPREF1373_00829 [Enterococcus faecium P1140] &gt;gi|402957546|gb|EJX74932.1| hypothetical protein HMPREF1371_00922 [Enterococcus faecium P1137] &gt;gi|402959160|gb|EJX76436.1| hypothetical protein HMPREF1370_02841 [Enterococcus faecium P1123] &gt;gi|402967489|gb|EJX84039.1| hypothetical protein HMPREF1368_02067 [Enterococcus faecium ERV69] &gt;gi|402967534|gb|EJX84078.1| hypothetical protein HMPREF1369_00341 [Enterococcus faecium ERV99] &gt;gi|402971258|gb|EJX87543.1| hypothetical protein HMPREF1367_02387 [Enterococcus faecium ERV38] &gt;gi|402974464|gb|EJX90512.1| hypothetical protein HMPREF1365_02861 [Enterococcus faecium ERV168] &gt;gi|402974734|gb|EJX90757.1| hypothetical protein HMPREF1366_02386 [Enterococcus faecium ERV26] &gt;gi|402978713|gb|EJX94437.1| hypothetical protein HMPREF1364_02836 [Enterococcus faecium ERV165] &gt;gi|402985527|gb|EJY00729.1| hypothetical protein HMPREF1362_02491 [Enterococcus faecium ERV102] &gt;gi|402987123|gb|EJY02213.1| hypothetical protein HMPREF1363_01327 [Enterococcus faecium ERV161] &gt;gi|402991789|gb|EJY06538.1| hypothetical protein HMPREF1361_02350 [Enterococcus faecium ERV1] &gt;gi|402993537|gb|EJY08136.1| hypothetical protein HMPREF1360_02629 [Enterococcus faecium E422] &gt;gi|402995701|gb|EJY10141.1| hypothetical protein HMPREF1359_02403 [Enterococcus faecium E417] &gt;gi|403002980|gb|EJY16907.1| hypothetical protein HMPREF1358_01810 [Enterococcus faecium C621] &gt;gi|403006937|gb|EJY20544.1| hypothetical protein HMPREF1357_01766 [Enterococcus faecium C497] &gt;gi|403009038|gb|EJY22512.1| hypothetical protein HMPREF1356_01074 [Enterococcus faecium C1904] &gt;gi|403010003|gb|EJY23411.1| hypothetical protein HMPREF1355_02616 [Enterococcus faecium 515] &gt;gi|403014058|gb|EJY27077.1| hypothetical protein HMPREF1353_02522 [Enterococcus faecium 513] &gt;gi|403016204|gb|EJY29034.1| hypothetical protein HMPREF1354_02046 [Enterococcus faecium 514] &gt;gi|403022541|gb|EJY34900.1| hypothetical protein HMPREF1351_02962 [Enterococcus faecium 510] &gt;gi|403023755|gb|EJY35977.1| hypothetical protein HMPREF1352_01704 [Enterococcus faecium 511] &gt;gi|403030202|gb|EJY41907.1| hypothetical protein HMPREF1350_01249 [Enterococcus faecium 509] &gt;gi|403032757|gb|EJY44302.1| hypothetical protein HMPREF1349_02002 [Enterococcus faecium 506] &gt;gi|403038596|gb|EJY49803.1| hypothetical protein HMPREF1346_02667 [Enterococcus faecium 503] &gt;gi|514544974|gb|EPI09315.1| hypothetical protein D356_02446 [Enterococcus faecium SD2A-2] &gt;gi|514546036|gb|EPI10349.1| hypothetical protein D357_01491 [Enterococcus faecium SD3B-2] &gt;gi|514550422|gb|EPI14558.1| hypothetical protein D355_02203 [Enterococcus faecium SD1C-2] &gt;gi|514555678|gb|EPI19507.1| hypothetical protein D352_02812 [Enterococcus faecium LA4B-2] &gt;gi|514555789|gb|EPI19610.1| hypothetical protein D353_01849 [Enterococcus faecium OC2A-1]</Hit_def>
+  <Hit_accession>WP_002321462</Hit_accession>
+  <Hit_len>142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.584</Hsp_bit-score>
+      <Hsp_score>353</Hsp_score>
+      <Hsp_evalue>3.08536e-39</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>135</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>128</Hsp_align-len>
+      <Hsp_qseq>QAGYQMQAILQVIGYDLLIVVTGGTNPHIGDVTTLTASTVPETVKFPSHDGRFHKDNFISERMAKRIQRYLAGSCTITAGIHVNQITKAQIAAAAPMTDDLSRQIISWLQAHPVQAEKPEYYGQDEQP</Hsp_qseq>
+      <Hsp_hseq>KLGFTIQAAVKVIGKDLLITLTGGDTPHIGTVTTFSRDTEMQTVRFPSHDGRFHKDDVLAEKIAVIIKTAVPGSCTITSGIHVDHISNAQINASFPMSEELGYKILDWLEKIDFHIKEPVYYKDGEKP</Hsp_hseq>
+      <Hsp_midline>+ G+ +QA ++VIG DLLI +TGG  PHIG VTT +  T  +TV+FPSHDGRFHKD+ ++E++A  I+  + GSCTIT+GIHV+ I+ AQI A+ PM+++L  +I+ WL+      ++P YY   E+P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>67980009</Statistics_db-num>
+      <Statistics_db-len>24387073819</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
